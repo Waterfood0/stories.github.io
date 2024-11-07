@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://waterfood0.github.io/stories.github.io/sitemap.xml
